@@ -3,7 +3,7 @@
 ## Only For Minecraft Bedrock Edition so basically only for windows 10/11
 ### Please go with the Notes section once.
 
-### Features to look on
+### Features to look on for--
 1. Servers - Yes
 2. Privacy error - No
 3. Xbox Progress - Yes
@@ -11,7 +11,7 @@
 5. Xbox Connected - Yes
 6. All / Multi Versions - Yes
 
-### Notes
+### Notes--
 • ONLY FOR MINECRAFT BEDROCK EDITION
 
 • Minecraft version 1.19 and above can only be installed in Windows 10 version 21H1 and Windows 11 above.
@@ -22,7 +22,7 @@
 
 • If you dont have a github acount and can't create/open issue, please don't hesistate and contact me on my discord(CyberAWM ︻デ━╤━═一一一═#1680) or on instagram(@xyberawm)
 
-## System / windows Requirements
+## System / windows Requirements--
 Requirements---
 
 • Your Operating system (OS) should be `Windows 10 version 1803 (build 17134.0) / higher`
