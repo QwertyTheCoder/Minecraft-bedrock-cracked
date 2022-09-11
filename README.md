@@ -13,9 +13,13 @@
 
 ### Notes
 • ONLY FOR MINECRAFT BEDROCK EDITION
+
 • Minecraft version 1.19 and above can only be installed in Windows 10 version 21H1 and Windows 11 above.
+
 • This is one time client in context, Once installed, you can launch minecraft directly from the start menu.
+
 • If you face off any errors or problems open a issue.
+
 • If you dont have a github acount and can't create/open issue, please don't hesistate and contact me on my discord(CyberAWM ︻デ━╤━═一一一═#1680) or on instagram(@xyberawm)
 
 ## System / windows Requirements
