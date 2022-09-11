@@ -31,4 +31,5 @@ Requirements---
 
 • You should be signed in with a personal Microsoft account in Microsoft store
 
-•`[OPTIONAL(You're not forced to disable it]` [Disbale runtime broker](https://www.wisecleaner.com/how-to/107-3-methods-to-fix-runtime-broker-high-cpu-usage-issue.html) and restart. here's how to do that: Open Run(WIN_KEY + R) After its open Try to find `TimeBrokerSvc` from `HKEY_Local_MACHINE\SYSTEM\CurrentControlSet\Services`. Then double click “Start” on the right and change the value from “3” to “4”
+•`[OPTIONAL(You're not forced to disable it]` [Disbale runtime broker](https://www.wisecleaner.com/how-to/107-3-methods-to-fix-runtime-broker-high-cpu-usage-issue.html) and restart. 
+Here's how to do that: Open Run(WIN_KEY + R) After its open Try to find `TimeBrokerSvc` from `HKEY_Local_MACHINE\SYSTEM\CurrentControlSet\Services`. Then double click “Start” on the right and change the value from “3” to “4”
