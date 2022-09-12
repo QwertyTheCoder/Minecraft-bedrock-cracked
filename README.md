@@ -34,7 +34,7 @@ Requirements---
 •`[OPTIONAL(You're not forced to disable it]` [Disbale runtime broker](https://www.wisecleaner.com/how-to/107-3-methods-to-fix-runtime-broker-high-cpu-usage-issue.html) and restart. 
 Here's how to do that: Open Run(WIN_KEY + R) After its open Try to find `TimeBrokerSvc` from `HKEY_Local_MACHINE\SYSTEM\CurrentControlSet\Services`. Then double click “Start” on the right and change the value from “3” to “4”
 
-## Installation of Minecraft
+## Installation of Minecraft--
 `~SKIP THIS PART IF YOU ALREADY HAVE MINECRAFT BEDROCK BUT CAN'T RUN IT.~`
 1. Download Required runtime files
 
@@ -55,7 +55,7 @@ To install, just open the files.
 
 5. Click the `Minecraft APPX file` to install it.
 
-## Cracking the Minecraft installation
+## Cracking the Minecraft installation--
 ### Prerequisities: Complete the `~Installation on Minecraft~` section
 
 1. Download the [M centers 4.0](https://github.com/QwertyTheCoder/Minecraft-bedrock-cracked/releases/download/v4069/M.Centers.4.0.x64.zip).
@@ -71,8 +71,8 @@ Wait For completion...
 
 6. After the installation process is completed. You can move on to the next step.
 
-## Using Cracked Minecraft Bedrock
+## Using Cracked Minecraft Bedrock--
 
 1. To start the Cracked Minecraft Bedrock Edition you can launch it from the start menu.
 
-2. ENJOY
+2. ENJOY!!!
