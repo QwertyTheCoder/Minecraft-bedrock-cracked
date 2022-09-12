@@ -38,10 +38,16 @@ Here's how to do that: Open Run(WIN_KEY + R) After its open Try to find `TimeBro
 `~SKIP THIS PART IF YOU ALREADY HAVE MINECRAFT BEDROCK BUT CAN'T RUN IT.~`
 1. Download Required runtime files
   I. [Microsoft Visual C++ Redistributable v16](https://aka.ms/vs/16/release/vc_redist.x64.exe)
+  
   II. [Microsoft Visual C++ Redistributable v17](https://aka.ms/vs/17/release/vc_redist.x64.exe)
+  
   III. [Microsoft Visual C++ UWP Runtime](https://www.microsoft.com/en-sa/download/confirmation.aspx?id=102159)
-To install open the files.
-4. Download the [MClauncher - To download Minecraft appx files](https://github.com/MCMrARM/mc-w10-version-launcher/releases/download/0.4.0/MCLauncher.zip)
-5. Start the MClauncher and MAKE SURE that this option is turned off:
+  
+To install, just open the files.
+
+2. Download the [MClauncher - To download Minecraft appx files](https://github.com/MCMrARM/mc-w10-version-launcher/releases/download/0.4.0/MCLauncher.zip)
+
+3. Start the MClauncher and MAKE SURE that this option is turned off:
     You can find the option in menubar "Delete APPX after download to save space" turn it off.
-6. Download the desired Minecraft Bedrock version appx using MCLauncher
+    
+4. Download the desired Minecraft Bedrock version appx using MCLauncher
