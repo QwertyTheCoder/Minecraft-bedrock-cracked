@@ -56,7 +56,7 @@ To install, just open the files.
 5. Click the `Minecraft APPX file` to install it.
 
 ## Cracking the Minecraft installation
-###Prerequisities: Complete the `~Installation on Minecraft~` section
+### Prerequisities: Complete the `~Installation on Minecraft~` section
 
 1. Download the [M centers 4.0](https://github.com/QwertyTheCoder/Minecraft-bedrock-cracked/releases/download/v4069/M.Centers.4.0.x64.zip).
 
