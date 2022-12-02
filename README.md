@@ -1,7 +1,7 @@
 # Minecraft-Bedrock-Cracked
 ###  I AM NOT RESPONSIBLE FOR ANYTHING HAPPENS WITH YOUR PROPERTY
 ## Only For Minecraft Bedrock Edition so basically only for windows 10/11
-#### If doesnt works feel free to contact me
+#### |/\|   If doesnt works feel free to contact me   |/\|
 ### Please go with the Notes section once.
 
 ### Features to look on for--
