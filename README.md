@@ -28,7 +28,7 @@
 ### TODO
 1. [x] Automating zipping originnal dll files for easy uploading to issues.
 2. [x] Automating extracting modified dll files to required location.
-2. [] Automating installation of appx files including runtime files & minecraft. ( NOT DOWNLOAD PART!!! )
+3. [ ] Automating installation of appx files including runtime files & minecraft. ( NOT DOWNLOAD PART!!! )
 
 ## System / windows Requirements--
 Requirements---
@@ -39,7 +39,7 @@ Requirements---
 
 • You should be signed in with a personal Microsoft account in Microsoft store
 
-•`[OPTIONAL(You're not forced to disable it]` [Disbale runtime broker](https://www.wisecleaner.com/how-to/107-3-methods-to-fix-runtime-broker-high-cpu-usage-issue.html) and restart. 
+•`[OPTIONAL(Only Disable if Minecraft crashes in between or if any other fix does'nt work]` [Disbale runtime broker](https://www.wisecleaner.com/how-to/107-3-methods-to-fix-runtime-broker-high-cpu-usage-issue.html) and restart. 
 Here's how to do that: Open Run(WIN_KEY + R) After its open Try to find `TimeBrokerSvc` from `HKEY_Local_MACHINE\SYSTEM\CurrentControlSet\Services`. Then double click “Start” on the right and change the value from “3” to “4”
 
 ## Installation of Minecraft--
