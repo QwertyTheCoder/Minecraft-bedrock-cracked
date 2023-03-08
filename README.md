@@ -4,23 +4,31 @@
 #### |/\\|   If doesnt works feel free to contact me   |/\\|
 ### Please follow the Notes sections once.
 
-### Features to look on for--
+### Features--
 1. Servers - Yes
 2. Xbox Progress / Achievements - Yes
 3. Microsoft store sign in - Yes
 4. Xbox Login - Yes
 5. All / Multi Versions Support - Yes
+6. Lifetime - Yes
 
 ### Notes / IMPORTANT--
 • ONLY FOR MINECRAFT BEDROCK EDITION
 
 • Minecraft version 1.19 and above can only be installed in Windows 10 version 21H1 and Windows 11 above.
 
-• This is one time client in context, Once installed, you can launch minecraft directly from the start menu.
+• This is one time client, once installed, you can launch minecraft directly from the start menu.
 
 • If you face off any errors or problems open a issue.
 
+• Check [Fixed Issues](https://github.com/QwertyTheCoder/Minecraft-bedrock-cracked/issues?q=label%3Adocumentation) once or i will close duplicate issues.
+
 • If you dont have a github acount and can't create/open issue, please don't hesistate and contact me on my discord(CyberAWM ︻デ━╤━═一一一═#1680) or on instagram(@xyberawm)
+
+### TODO
+1. [x] Automating zipping originnal dll files for easy uploading to issues.
+2. [x] Automating extracting modified dll files to required location.
+2. [] Automating installation of appx files including runtime files & minecraft. ( NOT DOWNLOAD PART!!! )
 
 ## System / windows Requirements--
 Requirements---
@@ -43,6 +51,8 @@ Here's how to do that: Open Run(WIN_KEY + R) After its open Try to find `TimeBro
   II. [Microsoft Visual C++ Redistributable v17](https://aka.ms/vs/17/release/vc_redist.x64.exe)
   
   III. [Microsoft Visual C++ UWP Runtime](https://www.microsoft.com/en-sa/download/confirmation.aspx?id=102159)
+  
+  IV. [Microsoft Visual C++ Libraries](https://aka.ms/Microsoft.VCLibs.x64.14.00.Desktop.appx)
   
 To install, just open the files.
 
