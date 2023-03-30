@@ -43,7 +43,8 @@ Requirements---
 Here's how to do that: Open Run(WIN_KEY + R) After its open Try to find `TimeBrokerSvc` from `HKEY_Local_MACHINE\SYSTEM\CurrentControlSet\Services`. Then double click “Start” on the right and change the value from “3” to “4”
 
 ## Installation of Minecraft--
-`~SKIP THIS PART IF YOU ALREADY HAVE MINECRAFT BEDROCK BUT CAN'T RUN IT.~`
+`~SKIP THIS PART IF YOU ALREADY HAVE MINECRAFT BEDROCK AND M CENTERS BUT CAN'T RUN IT.~`
+
 1. Download Required runtime files
 
   I. [Microsoft Visual C++ Redistributable v16](https://aka.ms/vs/16/release/vc_redist.x64.exe)
@@ -67,7 +68,12 @@ To install, just open the files.
 
 ## Cracking the Minecraft installation--
 ### Prerequisities: Complete the `~Installation on Minecraft~` section
-
+0. Download Required runtime file(.NET core) to make sure M Center can run properly
+  
+  I. [.NET Core Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1.32-windows-x64-installer?cid=getdotnetcore)
+  `If this file doesn't works, install this`
+  I. [.NET Core SDK](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-3.1.425-windows-x64-installer)
+  
 1. Download the [M centers 4.0](https://github.com/QwertyTheCoder/Minecraft-bedrock-cracked/releases/download/v4069/M.Centers.4.0.x64.zip).
 
 2. Extract the file.
