@@ -28,7 +28,7 @@
 ### TODO
 1. [x] Automating zipping originnal dll files for easy uploading to issues.
 2. [x] Automating extracting modified dll files to required location.
-3. [ ] Automating installation of appx files including runtime files & minecraft. ( NOT DOWNLOAD PART!!! )
+3. [x] Automating installation of appx files including runtime files & minecraft. ( NOT DOWNLOAD PART!!! )
 
 ## System / windows Requirements--
 Requirements---
@@ -73,6 +73,7 @@ To install, just open the files.
   I. [.NET Core Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1.32-windows-x64-installer?cid=getdotnetcore)
   
   `If this file doesn't works, install this`
+  
   I. [.NET Core SDK](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-3.1.425-windows-x64-installer)
   
 1. Download the [M centers 4.0](https://github.com/QwertyTheCoder/Minecraft-bedrock-cracked/releases/download/v4069/M.Centers.4.0.x64.zip).
