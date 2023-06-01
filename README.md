@@ -52,8 +52,7 @@ Here's how to do that: Open Run(WIN_KEY + R) After its open Try to find `TimeBro
   II. [Microsoft Visual C++ Redistributable v17](https://aka.ms/vs/17/release/vc_redist.x64.exe)
   
   III. [Microsoft Visual C++ UWP Runtime](https://www.microsoft.com/en-sa/download/confirmation.aspx?id=102159)
-  
-  IV. [Microsoft Visual C++ Libraries](https://aka.ms/Microsoft.VCLibs.x64.14.00.Desktop.appx)
+
   
 To install, just open the files.
 
