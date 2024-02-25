@@ -2,7 +2,7 @@
 
 **Disclaimer:** I am not responsible for any issues that may occur with your property.
 
-**Compatibility:** Only for Minecraft Bedrock Edition, primarily for Windows 10/11.
+**Compatibility:** Only for Minecraft Bedrock Edition, so only for Windows 10/11.
 
 **Support:** If you encounter any issues, feel free to contact me.
 
@@ -36,9 +36,10 @@
 - Developer Mode: Enable [Developer mode](https://www.wikihow.com/Enable-Developer-Mode-in-Windows-10) and restart your computer.
 - Sign-in: You should be signed in with a personal Microsoft account in the Microsoft store.
 - Optional: [Disable runtime broker](https://www.wisecleaner.com/how-to/107-3-methods-to-fix-runtime-broker-high-cpu-usage-issue.html) if Minecraft crashes.
+   Here's how to do that: Open Registry Editor and try to find TimeBrokerSvc from HKEY_Local_MACHINE\SYSTEM\CurrentControlSet\Services. Then double click “Start” on the right and change the value from “3” to “4”
 
 ## Installation of Minecraft
-
+***Skip this part if you already have Minecraft: Bedrock Edition and M Centers but can't run it!***
 1. **Download Required Runtime Files**
    - [Microsoft Visual C++ Redistributable v16](https://aka.ms/vs/16/release/vc_redist.x64.exe)
    - [Microsoft Visual C++ Redistributable v17](https://aka.ms/vs/17/release/vc_redist.x64.exe)
