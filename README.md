@@ -56,14 +56,7 @@ Here's how to do that: Open Run(WIN_KEY + R) After its open Try to find `TimeBro
   
 To install, just open the files.
 
-2. Download the [MClauncher - To download Minecraft APPX files](https://github.com/MCMrARM/mc-w10-version-launcher/releases/download/0.4.0/MCLauncher.zip)
-
-3. Start the `MClauncher.exe` and MAKE SURE that this option is turned off:
-    You can find the option in menubar `"Delete APPX after download to save space"` turn it off.
-    
-4. Download the desired Minecraft Bedrock version APPX file using `MCLauncher`.
-
-5. Click the `Minecraft APPX file` to install it.
+2. Download the Appx file of the desired version from the following link: [APPX](https://github.com/bernarddesfosse/onix_compatible_appx/releases/)
 
 ## Cracking the Minecraft installation--
 ### Prerequisities: Complete the `~Installation on Minecraft~` section
