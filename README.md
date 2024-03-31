@@ -64,8 +64,3 @@
 3. **Start `M Centers 4.0.exe`.**
 4. **Select the "Install Hack" option.**
 5. **To start the cracking, select the "Start" button. Wait for completion...**
-
-## Using Cracked Minecraft Bedrock
-
-1. **To start the Cracked Minecraft Bedrock Edition, launch it from the start menu.**
-2. **Enjoy!**
