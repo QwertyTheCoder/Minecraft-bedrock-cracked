@@ -6,15 +6,20 @@
 
 ### Please follow the Notes sections once.
 
-### Features
+## Features
+#### Everything from normal Bedrock Edition works in this crack
 1. Servers - Working
-2. Xbox Progress / Achievements - Working
-3. Microsoft Store + Sign In - Working
-4. Xbox Login - Working **as long as you have the proper xbox services & apps installed on your system**
-5. All / Multi Versions Support - Working
-6. Lifetime - Working
+2. LAN Worlds - Working
+3. Xbox Progress / Achievements - Working
+4. Microsoft Store + Sign In - Working
+5. Xbox Login - Working (**as long as you have the proper xbox services & apps installed on your system**)
+6. All/Multi-version Support - Working
+7. Lifetime - Working
+8. Hacked Clients / Modded Clients - Working
+9. Reverting the Hack - Working
+10. Buying stuff from the Marketplace - Working
 
-### Notes / IMPORTANT--
+## Important Info
 • This hack works for any app that uses the same licensing system as Minecraft: Bedrock Edition.
 
 • Minecraft version 1.19 and above can only be installed in Windows 10 version 21H1 and Windows 11 above.
@@ -25,7 +30,7 @@
 
 • Check [Fixed Issues](https://github.com/QwertyTheCoder/Minecraft-bedrock-cracked/issues?q=label%3Adocumentation) or any duplicate issues will be closed.
 
-### Requirements
+## Requirements
 
   - Windows 10 or above.
   - An x64 or x86 CPU.
@@ -34,7 +39,7 @@
   - [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe), to be able to use some mod options in the app.
   - Minecraft for Windows, or the program to crack, the program that you need to crack is required by some of the mod options.
 
-<h3>How to install M Centers and install the hack</h3>
+<h2>How to install M Centers and install the hack</h2>
 <ol>
     <li>Download Minecraft: Bedrock Edition free trial by using the Microsoft Store or the <a href="https://www.xbox.com/games/store/minecraft-for-windows/9NBLGGH2JHXJ">Xbox</a> app, another way is to open Windows Run (Windows key + R) and type <strong>ms-windows-store://pdp/?ProductId=9NBLGGH2JHXJ</strong> to launch the Minecraft for Windows store page to let you download the free trial of Minecraft for Windows to unlock it.</li>
     <li>Download the <strong>latest</strong> version of M Centers from <a href="https://mcenters.net/Downloads/M-Centers-8th-Edition/">the M Centers website</a></li>
