@@ -53,5 +53,5 @@
 ## Credits:
 
 - M Centers (tinedpakgamer) for M Centers, and the whole cracking program
-- CyberAWM (QwertyTheCoder) for the repo.
-- ARS (arsfr) & Cubebanyasz (misike12) for the information on this repo. 
+- CyberAWM (QwertyTheCoder) for the repo and information on this repo.
+- ARS (arsfr) & Cubebanyasz (misike12) for the some information on this repo. 
