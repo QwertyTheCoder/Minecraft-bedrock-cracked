@@ -54,4 +54,4 @@
 
 - M Centers (tinedpakgamer) for M Centers, and the whole cracking program
 - CyberAWM (QwertyTheCoder) for the repo.
-- ARS (arsfr) for the information on this repo. 
+- ARS (arsfr) & Cubebanyasz (misike12) for the information on this repo. 
