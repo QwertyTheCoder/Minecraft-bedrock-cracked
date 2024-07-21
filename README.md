@@ -51,7 +51,7 @@ Here's how to do that: Open Run(WIN_KEY + R) After its open Try to find `TimeBro
   
   II. [Microsoft Visual C++ Redistributable v17](https://aka.ms/vs/17/release/vc_redist.x64.exe)
   
-  III. [Microsoft Visual C++ UWP Runtime](https://www.microsoft.com/en-sa/download/confirmation.aspx?id=102159)
+  III. [Microsoft Visual C++ UWP Runtime](https://learn.microsoft.com/en-us/troubleshoot/developer/visualstudio/cpp/libraries/c-runtime-packages-desktop-bridge#how-to-install-and-update-desktop-framework-packages)
 
   
 To install, just open the files.
