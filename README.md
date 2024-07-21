@@ -35,7 +35,7 @@ Requirements---
 
 • Your Operating system (OS) should be `Windows 10 version 1803 (build 17134.0) / higher`
 
-• Your Computer should have [developer mode](https://www.wikihow.com/Enable-Developer-Mode-in-Windows-10) turned on(To access it, head to Settings > Update & Security > For Developers and select “Developer mode”) and restart you computer after enabling
+• Your Computer should have [developer mode](https://www.wikihow.com/Enable-Developer-Mode-in-Windows-10) turned on(To access it, head to Settings > Update & Security > For Developers and select “Developer mode”) and restart you computer after enabling (For Windows 11, Go Settings > System > For Developers)
 
 • You should be signed in with a personal Microsoft account in Microsoft store
 
