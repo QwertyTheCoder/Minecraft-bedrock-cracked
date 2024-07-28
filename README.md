@@ -1,88 +1,57 @@
-# Minecraft-Bedrock-Cracked
-###  I AM NOT RESPONSIBLE FOR ANYTHING HAPPENS WITH YOUR PROPERTY
-## Only For Minecraft Bedrock Edition so basically only for windows 10/11
-#### |/\\|   If doesnt works feel free to contact me   |/\\|
+# Crack Minecraft Bedrock Edition, using M Centers 8th Edition
+
+#### This crack is [open-sourced](https://github.com/tinedpakgamer/M-Centers-8.0), and does not do anything except cracking the DLL to allow it to bypass the trial and enter the full game.
+
+#### |/\\|   If the hack does not work or there are any issues, please join the [M Centers discord server](https://dsc.gg/mcenters) and open a ticket to get your issue resolved.  |/\\|
+
 ### Please follow the Notes sections once.
 
-### Features--
-1. Servers - Yes
-2. Xbox Progress / Achievements - Yes
-3. Microsoft store sign in - Yes
-4. Xbox Login - Yes
-5. All / Multi Versions Support - Yes
-6. Lifetime - Yes
+## Features
+#### Everything from normal Bedrock Edition works in this crack
+1. Servers - Working
+2. LAN Worlds - Working
+3. Xbox Progress / Achievements - Working
+4. Microsoft Store + Sign In - Working
+5. Xbox Login - Working (**as long as you have the proper xbox services & apps installed on your system**)
+6. All/Multi-version Support - Working
+7. Lifetime - Working
+8. Hacked Clients / Modded Clients - Working
+9. Reverting the Hack - Working
+10. Buying stuff from the Marketplace - Working
 
-### Notes / IMPORTANT--
-• ONLY FOR MINECRAFT BEDROCK EDITION
+## Important Info
+  - This hack works for any app that uses the same licensing system as Minecraft: Bedrock Edition.
+  - Minecraft version 1.19 and above can only be installed in Windows 10 version 20H1/2004 and Windows 11 above.
+  - This is one time client, once installed, you can launch minecraft directly from the start menu, until you update Windows which resets the hack.
+  - If you face any errors or problems join the M Centers Discord and open a ticket, or [make an issue](https://github.com/QwertyTheCoder/Minecraft-bedrock-cracked/issues) in this repo or on the [M Centers 8.0 repo (recommended since faster response times)](https://github.com/tinedpakgamer/M-Centers-8.0)
 
-• Minecraft version 1.19 and above can only be installed in Windows 10 version 21H1 and Windows 11 above.
+  - Check [Fixed Issues](https://github.com/QwertyTheCoder/Minecraft-bedrock-cracked/issues?q=label%3Adocumentation) or any duplicate issues will be closed.
 
-• This is one time client, once installed, you can launch minecraft directly from the start menu.
+## Requirements
+  - Windows 10 or above.
+  - An x64 or x86 CPU (ARM support is coming soon).
 
-• If you face off any errors or problems open a issue.
+### Optional Requirements
+  - [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe), to be able to use some mod options in the app.
+  - Minecraft for Windows, or the program to crack, the program that you need to crack is required by some of the mod options.
 
-• Check [Fixed Issues](https://github.com/QwertyTheCoder/Minecraft-bedrock-cracked/issues?q=label%3Adocumentation) once or i will close duplicate issues.
+<h2>How to install M Centers and install the hack</h2>
+<ol>
+    <li>Download Minecraft: Bedrock Edition free trial by using the Microsoft Store or the <a href="https://www.xbox.com/games/store/minecraft-for-windows/9NBLGGH2JHXJ">Xbox</a> app, another way is to open Windows Run (Windows key + R) and type <strong>ms-windows-store://pdp/?ProductId=9NBLGGH2JHXJ</strong> to launch the Minecraft for Windows store page to let you download the free trial of Minecraft for Windows to unlock it.</li>
+    <li>Download the <strong>latest</strong> version of M Centers from <a href="https://mcenters.net/Downloads/M-Centers-8th-Edition/">the M Centers website</a></li>
+    <li>Extract the files</li>
+    <li>Open <strong>M Centers.exe</strong></li>
+    <li>Select the 3rd option, by default it will say <strong>Dll Method Online</strong></li>
+    <li>Select <strong>Dll Method Auto Patch (or any other mod option you want to use, although Dll Method Auto Patch is prefered, since it makes the DLL for you to get rid of the unsupported windows version error.)</strong></li>
+    <li>Press on the <strong>Activate</strong> button.</li>
+    <li>Press on the<strong>Back</strong> button, to go to the main menu.</li>
+    <li>Click <code>"Install Cracked DLL"</code></li>
+    <li>Click <code>Start</code></li>
+    <li>Once done, you can launch <code>Minecraft</code> from the start menu.</li>  
+    <li><strong>Lastly, enjoy playing Minecraft, thanks for your time reading this installation guide!</strong></li>  
+</ol>
 
-• If you dont have a github acount and can't create/open issue, please don't hesistate and contact me on my discord(CyberAWM ︻デ━╤━═一一一═#1680) or on instagram(@xyberawm)
-
-### TODO
-1. [x] Automating zipping originnal dll files for easy uploading to issues.
-2. [x] Automating extracting modified dll files to required location.
-3. [x] Automating installation of appx files including runtime files & minecraft. ( NOT DOWNLOAD PART!!! )
-
-## System / windows Requirements--
-Requirements---
-
-• Your Operating system (OS) should be `Windows 10 version 1803 (build 17134.0) / higher`
-
-• Your Computer should have [developer mode](https://www.wikihow.com/Enable-Developer-Mode-in-Windows-10) turned on(To access it, head to Settings > Update & Security > For Developers and select “Developer mode”) and restart you computer after enabling
-
-• You should be signed in with a personal Microsoft account in Microsoft store
-
-•`[OPTIONAL(Only Disable if Minecraft crashes in between or if any other fix does'nt work]` [Disbale runtime broker](https://www.wisecleaner.com/how-to/107-3-methods-to-fix-runtime-broker-high-cpu-usage-issue.html) and restart. 
-Here's how to do that: Open Run(WIN_KEY + R) After its open Try to find `TimeBrokerSvc` from `HKEY_Local_MACHINE\SYSTEM\CurrentControlSet\Services`. Then double click “Start” on the right and change the value from “3” to “4”
-
-## Installation of Minecraft--
-`~SKIP THIS PART IF YOU ALREADY HAVE MINECRAFT BEDROCK AND M CENTERS BUT CAN'T RUN IT.~`
-
-1. Download Required runtime files
-
-  I. [Microsoft Visual C++ Redistributable v16](https://aka.ms/vs/16/release/vc_redist.x64.exe)
-  
-  II. [Microsoft Visual C++ Redistributable v17](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-  
-  III. [Microsoft Visual C++ UWP Runtime](https://www.microsoft.com/en-sa/download/confirmation.aspx?id=102159)
-
-  
-To install, just open the files.
-
-2. Download the Appx file of the desired version from the following link: [APPX](https://github.com/bernarddesfosse/onix_compatible_appx/releases/)
-
-## Cracking the Minecraft installation--
-### Prerequisities: Complete the `~Installation on Minecraft~` section
-0. Download Required runtime file(.NET core) to make sure M Center can run properly
-  
-  I. [.NET Core Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1.32-windows-x64-installer?cid=getdotnetcore)
-  
-  `If this file doesn't works, install this`
-  
-  I. [.NET Core SDK](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-3.1.425-windows-x64-installer)
-  
-1. Download the [M centers 4.0](https://github.com/QwertyTheCoder/Minecraft-bedrock-cracked/releases/download/v4069/M.Centers.4.0.x64.zip).
-
-2. Extract the file.
-
-3. Start `M Centers 4.0.exe`
-
-4. Select the "Install Hack" option.
-
-5. To start the cracking, select the "Start" button.
-Wait For completion...
-
-6. After the installation process is completed. You can move on to the next step.
-
-## Using Cracked Minecraft Bedrock--
-
-1. To start the Cracked Minecraft Bedrock Edition you can launch it from the start menu.
-
-2. ENJOY!!!
+## Credits:
+- M Centers (tinedpakgamer) for M Centers, and the whole cracking program
+- CyberAWM (QwertyTheCoder) for the repo and information on this repo.
+- ARS (arsfr) & Cubebanyasz (misike12) for the some information on this repo. 
