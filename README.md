@@ -1,6 +1,6 @@
 # Crack Minecraft Bedrock Edition, using M Centers 8th Edition
 
-#### This crack is [open-sourced](https://github.com/tinedpakgamer/M-Centers-8.0), and does not do anything except cracking the DLL to allow it to bypass the trial and enter the full game.
+#### This crack is [open-sourced](https://github.com/tinedpakgamer/M-Centers-8.0), and does not do anything except patching licensing DLLs to allow them to bypass the trial of UWP apps (such as Minecraft) and enter the full version of the game or app.
 
 #### |/\\|   If the hack does not work or there are any issues, please join the [M Centers discord server](https://dsc.gg/mcenters) and open a ticket to get your issue resolved.  |/\\|
 
