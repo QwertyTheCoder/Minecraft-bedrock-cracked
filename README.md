@@ -50,8 +50,3 @@
     <li>Once done, you can launch <code>Minecraft</code> from the start menu.</li>  
     <li><strong>Lastly, enjoy playing Minecraft, thanks for your time reading this installation guide!</strong></li>  
 </ol>
-
-## Credits:
-- M Centers (tinedpakgamer) for M Centers, and the whole cracking program
-- CyberAWM (QwertyTheCoder) for maintaining of this repo.
-- ARS (arsfr) & Cubebanyasz (misike12) for for some information addtion on this repo. 
